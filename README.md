@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @dc0dr
+# About Me
+
+- 👋 こんにちわ, I’m Emmanuel Daniels. 
 - 👀 I’m interested in Data Analysis, Software Development & ML/AI
 - 🌱 I’m currently learning _Unspecified_
 - 💞️ I’m looking to collaborate on _Unspecified_
