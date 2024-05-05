@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Analysis, Software Development & ML/AI
 - 🌱 I’m currently learning RPA 
 - 💞️ I’m looking to collaborate on backend projects and RPA projects
-- 👨🏾‍💻 I'm currently working on an Telegram resource sharing bot called "Akatasuki"
+- 👨🏾‍💻 I'm currently working on an Telegram resource sharing bot called "Akatsuki"
 - 📫 You can contact me through the following channels:
     - Twitter: @ginpachiisama
     - Discord: ginpachisama#1895
