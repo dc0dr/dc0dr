@@ -2,9 +2,9 @@
 
 - 👋 こんにちわ, I’m Emmanuel Daniels. 
 - 👀 I’m interested in Data Analysis, Software Development & ML/AI
-- 🌱 I’m currently learning _Unspecified_
-- 💞️ I’m looking to collaborate on _Unspecified_
-- 👨🏾‍💻 I'm currently working on an undisclosed project for my senior year in college.
+- 🌱 I’m currently learning RPA 
+- 💞️ I’m looking to collaborate on backend projects and RPA projects
+- 👨🏾‍💻 I'm currently working on an Telegram resource sharing bot called "Akatasuki"
 - 📫 You can contact me through the following channels:
     - Twitter: @ginpachiisama
     - Discord: ginpachisama#1895
