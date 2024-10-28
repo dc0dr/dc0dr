@@ -7,7 +7,7 @@
 - 👨🏾‍💻 I'm currently working on an Telegram resource sharing bot called "Akatsuki"
 - 📫 You can contact me through the following channels:
     - Twitter: @ginpachiisama
-    - Discord: ginpachisama#1895
+    - Discord: ginpachiisama
 
 <!---
 dc0dr/dc0dr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
