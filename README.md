@@ -7,7 +7,7 @@
 
 > a hobbyist perhaps?
 
-<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=dc0dr&layout=compact&langs_count=4&theme=darcula"/>
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=dc0dr&layout=compact&custom_title=typescript?%20%most%20used?&langs_count=4&theme=darcula"/>
 
 ## About Me
 - 🙋🏾‍♂️ I’m dc0dr (just a quirky way of saying `decoder` or `the coder`). 
