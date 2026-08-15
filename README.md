@@ -5,7 +5,7 @@
 
 ### 👋 こんにちわ
 
-> a hobbyist perhaps?
+> a hobbyist developer perhaps?
 
 <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=dc0dr&layout=compact&custom_title=typescript?%20%most%20used?&langs_count=4&theme=darcula"/>
 
