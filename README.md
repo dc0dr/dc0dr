@@ -1,4 +1,4 @@
-<img align="right" src="https://github-stats-extended.vercel.app/api?username=dc0dr&custom_title=gotta%20rack%20up%20the%20numbers&show_icons=true&include_all_commits=true&theme=darcula" />
+<img align="right" src="https://github-stats-extended.vercel.app/api?username=dc0dr&custom_title=gotta%20rack%20up%20those%20numbers&show_icons=true&include_all_commits=true&theme=darcula" />
 
 # dc0dr
 ![](https://komarev.com/ghpvc/?username=dc0dr&color=4169e1)
