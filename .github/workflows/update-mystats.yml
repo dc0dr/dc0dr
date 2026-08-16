@@ -21,15 +21,15 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&custom_title=gotta%20rack%20up%20those%20numbers&show_icons=true&include_all_commits=true&theme=darcula
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.UPDATE_README_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&custom_title=typescript?%20%most%20used?&layout=compact&langs_count=4&theme=darcula
+          options: username=${{ github.repository_owner }}&custom_title=typescript?%20most%20used?&layout=compact&langs_count=4&theme=darcula
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.UPDATE_README_TOKEN }}
 
       - name: Generate pin card
         uses: stats-organization/github-readme-stats-action@v2
@@ -37,7 +37,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=${{ github.repository }}&custom_title=pinned%20repositories&theme=darcula
           path: profile/pin-stats-organization-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.UPDATE_README_TOKEN }}
 
         # 41898282+github-actions[bot]@users.noreply.github.com (adding this just incase this action doesn't work)
       - name: Commit cards
