@@ -10,7 +10,7 @@
 <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=dc0dr&layout=compact&custom_title=typescript?%20%most%20used?&langs_count=4&theme=darcula"/>
 
 ## About Me
-- 🙋🏾‍♂️ I’m dc0dr (just a quirky way of saying `decoder` or `the coder`). 
+- 🙋🏾‍♂️ I’m dc0dr (just a quirky way of saying `decoder` or `the coder`).
 - 👀 I’m interested in Data Analysis, Backend Development, Automation & ML/AI
 - 🌱 I’m currently learning anything that piques my interest 
 - 💞️ I’m looking to collaborate on backend projects and automation projects
@@ -18,8 +18,3 @@
 - 📫 You can contact me through the following channels:
     - Twitter: @ginpachiisama
     - Discord: ginpachiisama
-
-<!---
-dc0dr/dc0dr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
