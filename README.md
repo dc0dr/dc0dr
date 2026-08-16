@@ -1,4 +1,4 @@
-<img align="right" src="https://github-stats-extended.vercel.app/api?username=dc0dr&custom_title=gotta%20rack%20up%20those%20numbers&show_icons=true&include_all_commits=true&theme=darcula" />
+<img align="right" src="./profile/stats.svg" />
 
 # dc0dr
 ![](https://komarev.com/ghpvc/?username=dc0dr&color=4169e1)
@@ -7,7 +7,7 @@
 
 > a hobbyist developer perhaps?
 
-<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=dc0dr&layout=compact&custom_title=typescript?%20%most%20used?&langs_count=4&theme=darcula"/>
+<img align="right" src="./profile/top-langs.svg"/>
 
 ## About Me
 - 🙋🏾‍♂️ I’m dc0dr (just a quirky way of saying `decoder` or `the coder`).
