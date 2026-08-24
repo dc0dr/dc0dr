@@ -5,7 +5,7 @@
 
 ### 👋 こんにちわ
 
-> a hobbyist developer perhaps?
+> a hobbyist developer perhaps? who knows
 
 <img align="right" src="./profile/top-langs.svg"/>
 
