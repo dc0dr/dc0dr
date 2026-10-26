@@ -18,3 +18,5 @@
 - 📫 You can contact me through the following channels:
     - Twitter: @ginpachiisama
     - Discord: ginpachiisama
+
+**PS**: _My portfolio site is a WIP. I'll work on it properly when motivation strikes_
